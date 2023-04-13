@@ -15,7 +15,7 @@
 **⚙ My projects**
 
 <ol>
-  <li> <b>Productivity App (https://github.com/zandalJ/Productivity-App) (in develop)</b> - It's my own project designed and coded by me. This app was mainly coded in React and scss but i used few other libraries  like react-redux, react-router v6, mui, momentjs, react-hook-form, react swiper, framer motion, font-awesome and firebase. 
+  <li> <b>Productivity App (https://github.com/zandalJ/Productivity-App) (in develop)</b> - It's my first own designed and coded project. This app was mainly coded in React and scss but i used few other libraries  like react-redux, react-router v6, mui, momentjs, react-hook-form, react swiper, framer motion, font-awesome and firebase. This project soldified my knowledge in React and his core main libraries, creating and connecting my firebase database and using other libraries in app.
   <li> <b>Sprzatando (https://github.com/loudsheep/sprzatando) (in develop)</b> - It's a school project developed with my schoolmates in React, styled components and Inertia. I'm responsible for part projecting in figma and frontend develop. This project is a great opportunity to improve working in group and with the backend side of the project.
 </ol>
 
