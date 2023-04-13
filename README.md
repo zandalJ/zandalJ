@@ -41,3 +41,10 @@
 
 </details>
 
+<details><summary><b>📧 Contact me</b></summary>
+    <ul>
+        <li><strong>E-mail: </strong> <code>dziubacontact@gmail.com</code></li>
+        <li><strong><a href="[https://www.linkedin.com/in/mateusz-michalik](https://www.linkedin.com/in/fabian-dziuba-9097441bb/)"> Linkedin </a>
+    </ul>
+</details>
+
