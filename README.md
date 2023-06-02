@@ -31,7 +31,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,redux,materialui)](https://skillicons.dev)
 
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,firebase)](https://skillicons.dev)
 
 </details>
 
