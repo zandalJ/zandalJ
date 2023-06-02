@@ -28,7 +28,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,sass,html)](https://skillicons.dev)
 
 ### Frameworks/Libraries:
-[![My Skills](https://skillicons.dev/icons?i=react,redux, materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,materialui)](https://skillicons.dev)
 
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev)
