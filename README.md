@@ -15,8 +15,8 @@
 **<details><summary><b>⚙ My projects</b></summary>**
 
 <ol>
-  <li> <b>Productivity App (https://github.com/zandalJ/Productivity-App) (in develop)</b> - It's my first own designed and coded project. This app was mainly coded in React and scss but i used few other libraries  like react-redux, react-router v6, material UI, moment.js, react-hook-form, react swiper, framer motion, font-awesome and firebase. This project soldified my knowledge in React and his core main libraries, creating and connecting my firebase database and using other libraries in app.
-  <li> <b>Sprzatando (https://github.com/loudsheep/sprzatando) (finished)</b> - It's a school project developed with my schoolmates in React, styled components and Inertiajs. I'm responsible for part projecting in figma and frontend develop. This project is a great opportunity to improve working in group and with the backend side of the project.
+  <li> <b>Productivity App (https://github.com/zandalJ/Productivity-App)</b> - It's my first own designed and coded project. This app was mainly coded in React and scss but i used few other libraries  like react-redux, react-router v6, material UI, moment.js, react-hook-form, react swiper, framer motion, font-awesome and firebase. This project soldified my knowledge in React and his core main libraries, creating and connecting my firebase database and using other libraries in app.
+  <li> <b>Sprzatando (https://github.com/loudsheep/sprzatando)</b> - It's a school project developed with my schoolmates in React, styled components and Inertiajs. I'm responsible for part projecting in figma and frontend develop. This project is a great opportunity to improve working in group and with the backend side of the project.
 </ol>
   
  </details>
