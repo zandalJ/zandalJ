@@ -25,10 +25,10 @@
 **<details><summary><b>💻 Tech Stack</b></summary>**
 
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,sass,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,sass,html)](https://skillicons.dev)
 
 ### Frameworks/Libraries:
-[![My Skills](https://skillicons.dev/icons?i=react,redux,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,redux,materialui,tailwind)](https://skillicons.dev)
 
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,firebase)](https://skillicons.dev)
